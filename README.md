@@ -1,6 +1,6 @@
 # savePython
 * 存放着一些整个大学课程锻炼代码，包括数据挖掘、自然语言处理自写库、比赛代码等。
-* CSDN -- 抄的代码
+* CSDN      -- 抄的代码
 * analysis  -- 自写股票分析的简单代码
 * datamine  -- 数据分析的代码
 * homework  -- 自然语言处理的代码，主要手撕TF-IDF、TextRank等算法
